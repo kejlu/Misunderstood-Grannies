@@ -4,7 +4,7 @@ Programming Assignment 2
 
 A. Required Elements:
 
-Mouse click for Elvis to follow. Animations change between idle/jogging
+Mouse click for Elvis to follow (by NavMesh). Animations change between idle/jogging
 
 Used cloud Skybox
 
